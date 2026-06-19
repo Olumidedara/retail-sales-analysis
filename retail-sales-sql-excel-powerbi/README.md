@@ -122,5 +122,4 @@ The `sales_analysis.sql` script contains 30+ queries covering:
 - The **West region** shows the strongest performance; the **South** has growth potential
 
 ---
-
-*Portfolio project demonstrating SQL → Excel → Power BI pipeline. Data is synthetically generated.*
+### ⭐ If you find this project useful, please give it a star!
