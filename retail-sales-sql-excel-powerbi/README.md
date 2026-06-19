@@ -63,10 +63,10 @@ Opens `retail_sales_analysis.xlsx` with 3 sheets:
 - **Key Insights** — Metrics + recommendations
 
 ### 4. Power BI Dashboard
-Follow the detailed guide in `powerbi/powerbi_guide.md`. Quick start:
+Quick start:
 1. Open Power BI Desktop → Get Data → Text/CSV
 2. Select `data/raw_sales_data.csv`
-3. Create the DAX measures and visuals from the guide
+3. Create the DAX measures and visuals
 
 ## Dataset Description
 
