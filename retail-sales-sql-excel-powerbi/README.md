@@ -24,13 +24,16 @@ retail-sales-sql-excel-powerbi/
 │   ├── generate_dataset.py        # Reproducible data generator
 │   └── raw_sales_data.csv         # 500 retail sales records
 ├── sql/
-│   └── sales_analysis.sql         # 30+ queries: CREATE, SELECT, GROUP BY, aggregations
+│   ├── import_csv.sql             # CLI import helper
+│   └── sales_analysis.sql         # 30+ SQL queries
 ├── excel/
-│   ├── generate_excel.py          # Python script to build .xlsx with pivot tables + charts
-│   └── retail_sales_analysis.xlsx # Pre-built Excel file (Raw Data, Pivot Tables, Key Insights sheets)
+│   ├── generate_excel.py          # Builds .xlsx with pivot tables + charts
+│   └── retail_sales_analysis.xlsx # Pre-built Excel file (3 sheets)
 ├── powerbi/
-│   └── powerbi_guide.md           # Step-by-step Power BI setup + DAX measures + dashboard layout
-└── README.md
+│   ├── generate_dashboard.py      # Generates the HTML dashboard
+│   ├── retail_sales_dashboard.html # Interactive dashboard
+│   └── retail_sales_dashboard.pbix # Power BI dashboard
+└── README.md                      
 ```
 
 ## How to Run
