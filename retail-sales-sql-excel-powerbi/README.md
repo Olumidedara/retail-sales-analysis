@@ -41,7 +41,7 @@ cd data && python generate_dataset.py
 ```
 
 ### 2. SQL Analysis
-**Option A — DB Browser for SQLite (recommended for beginners)**
+**Option A — DB Browser for SQLite**
 1. Download [DB Browser for SQLite](https://sqlitebrowser.org/)
 2. Open → `sales_analysis.sql` → Execute step by step
 
