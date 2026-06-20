@@ -103,6 +103,9 @@ Quick start:
 | Categories | 5 (Electronics, Clothing, Home & Kitchen, Books, Sports) |
 | Regions | 4 (North, South, East, West) |
 
+## Dashboard Views
+
+
 ## SQL Queries Included
 
 The `sales_analysis.sql` script contains 30+ queries covering:
