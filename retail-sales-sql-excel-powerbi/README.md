@@ -1,4 +1,4 @@
-# Retail Sales Analysis — SQL + Excel + Power BI
+# Retail Sales Analysis
 
 A complete data analysis portfolio project integrating **SQL**, **Excel**, and **Power BI** through a unified retail sales pipeline. Analyzes 500 transactions across 5 product categories, 4 regions, and 3 sales channels from January 2024 to May 2025.
 
