@@ -104,7 +104,8 @@ Quick start:
 | Regions | 4 (North, South, East, West) |
 
 ## Dashboard Views
-<img width="4150" height="2400" alt="retail_sales_dashboard_1" src="https://github.com/Olumidedara/retail-sales-sql-excel-powerbi/powerbi/retail_sales_dashboard_1.jpg" />
+<img width="4150" height="2400" alt="retail_sales_dashboard_1" src="https://github.com/Olumidedara/retail-sales-analysis/blob/9e806e48786b5b5a2ba293631384c991ef9b9cea/retail-sales-sql-excel-powerbi/powerbi/retail_sales_dashboard_1.jpg" />
+
 
 
 ## SQL Queries Included
