@@ -105,10 +105,10 @@ Quick start:
 
 ## Dashboard Views
 ### Dashboard 1
-<img width="4150" height="2400" alt="retail_sales_dashboard_1" src="https://github.com/Olumidedara/retail-sales-analysis/blob/9e806e48786b5b5a2ba293631384c991ef9b9cea/retail-sales-analysis/powerbi/retail_sales_dashboard_1.jpg" />
+<img width="4150" height="2400" alt="retail_sales_dashboard_1" src="https://github.com/Olumidedara/retail-sales-analysis/blob/0cba9411581c80086e9889ae6b9ad005b8a9e345/retail-sales-analysis/powerbi/retail_sales_dashboard_1.jpg" />
 
 ### Dashboard 2
-<img width="4150" height="2400" alt="retail_sales_dashboard_1" src="https://github.com/Olumidedara/retail-sales-analysis/blob/6350f76875ca29464758f8bacb93bd6f78fb81d1/retail-sales-analysis/powerbi/retail_sales_dashboard_2.jpg" />
+<img width="4150" height="2400" alt="retail_sales_dashboard_1" src="https://github.com/Olumidedara/retail-sales-analysis/blob/0cba9411581c80086e9889ae6b9ad005b8a9e345/retail-sales-analysis/powerbi/retail_sales_dashboard_2.jpg" />
 
 ## SQL Queries Included
 
